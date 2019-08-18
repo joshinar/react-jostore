@@ -1,0 +1,5 @@
+{
+    "MongoURI": "mongodb+srv://abc123:abc123!@cluster0-depbt.mongodb.net/jostore?retryWrites=true&w=majority",
+    "jwtsecret": "thisismysecretapp",
+    "SENDGRID_API_KEY": "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"
+  }
