@@ -1,11 +1,8 @@
 {
-  "name": "joshop-rewrite",
+  "name": "git-both",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "10.16.1"
-  },
   "scripts": {
     "start": "node index.js",
     "server": "nodemon index.js",
@@ -23,9 +20,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.0.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.6.1",
-    "stripe": "^7.4.0",
-    "twilio": "^3.33.0"
+    "mongoose": "^5.6.1"
   },
   "devDependencies": {
     "@sendgrid/mail": "^6.4.0",
